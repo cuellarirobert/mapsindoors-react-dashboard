@@ -1,0 +1,5 @@
+# Exclude specific files
+src/expanded-theme.ts
+
+# Exclude entire directories
+src/scenes/dashboard/
